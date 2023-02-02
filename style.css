@@ -1,0 +1,10 @@
+* {
+    scroll-behavior: smooth;
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    background: linear-gradient(to left bottom, lightblue, lightpink, lightblue);
+    min-height: 100vh;
+}
